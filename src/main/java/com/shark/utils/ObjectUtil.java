@@ -3,7 +3,7 @@ package com.shark.utils;
 import java.io.IOException;
 import java.util.Arrays;
 
-import static com.rambo.tools.BasicConstant.EMPTY_STRING;
+import static com.shark.utils.BasicConstant.EMPTY_STRING;
 
 
 /**
